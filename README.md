@@ -52,4 +52,4 @@
 
 ### Streamlit Deploy
 
-https://bikesharingdashboard-ejdfzcs7cpahqs7paznn6c.streamlit.app
+https://bikedashboard-lqxtbkh2cncyfbtab97dux.streamlit.app
